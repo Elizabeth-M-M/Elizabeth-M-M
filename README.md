@@ -7,7 +7,7 @@ Software Developer, Full Stack
 I currently enjoy working with React and Tailwind on the front end side and also the interactivity with the back end API using Ruby on Rails.
 
 * 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [ellamuthusi@gmail.com](mailto:ellamuthusi@gmail.com)
+* ✉️  You can contact me at [elimuthusi@gmail.com](mailto:elimuthusi@gmail.com)
 * 🤝  I'm open to collaborating on front end, back end and full stack projects.
 
 ### Skills
