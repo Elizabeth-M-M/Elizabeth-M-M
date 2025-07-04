@@ -32,7 +32,7 @@ I currently enjoy working with React and Tailwind on the front end side and also
 
 <p align="left"> <a href="https://www.github.com/Elizabeth-M-M" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/elizabeth-muthusi-40964812b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+<!-- ### Badges
 
 <b>My GitHub Stats</b>
 
@@ -40,4 +40,4 @@ I currently enjoy working with React and Tailwind on the front end side and also
 
 <a href="http://www.github.com/Elizabeth-M-M"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Elizabeth-M-M&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Elizabeth-M-M" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elizabeth-M-M&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Elizabeth-M-M" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elizabeth-M-M&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>  -->
